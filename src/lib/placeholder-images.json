@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "landing-hero",
+      "description": "A young student looking towards a bright, stylized future representing educational opportunities.",
+      "imageUrl": "https://picsum.photos/seed/1/1200/800",
+      "imageHint": "student future"
+    },
+    {
+      "id": "feature-quiz",
+      "description": "A clean, modern illustration of a brain with interconnected nodes, symbolizing aptitude assessment.",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "quiz assessment"
+    },
+    {
+      "id": "feature-career",
+      "description": "A branching path graphic showing multiple career options stemming from a single point.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "career paths"
+    },
+    {
+      "id": "feature-college",
+      "description": "An illustration of a modern college campus building with a welcoming entrance.",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "college campus"
+    }
+  ]
+}
